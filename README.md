@@ -43,14 +43,14 @@ Choose one of the options below:
 ![](Screenshot/menu1.png)![](Screenshot/menu2.png)![](Screenshot/menu3.png)![](Screenshot/menu4.png)
 
 ### 3. Task Manager (Do-not-distract mode / White List)
-![](Screenshot/Task Manager.png)
+![](Screenshot/TaskManager.png)
 
 ### 4. Calendar 
 ![](Screenshot/Calendar.png)
 ![](Screenshot/Calendar2.png)
 
 ### 5. Remind drink water
-![](Screenshot/Drink Water.png)
+![](Screenshot/DrinkWater.png)
 
 ### 6. Hide to Tray (and its functions) 
 ![](Screenshot/tray.png)
