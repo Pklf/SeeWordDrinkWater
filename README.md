@@ -1,4 +1,4 @@
-# SeeWordDrinkWater
+# SeeWordDrinkWater (Individual hobby project)
 
 # About The Project
 In this project, I have developed a java application that remind user to drink water. As a programmer, I seldom leave my chair and code to the point of forgetting. So I develop this for myself. But Also, for you who should care more about yourself.
